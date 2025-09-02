@@ -39,7 +39,3 @@ Both projects demonstrate concepts in **socket programming, concurrency, and sys
 - Navigate into each project folder (`chat-server/` or `dns-resolver/`)  
 - See the individual `README.md` files for compilation and run instructions  
 
----
-
-## 👨‍💻 Author
-Developed by *Rajender *  
