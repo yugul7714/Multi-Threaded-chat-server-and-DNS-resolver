@@ -299,12 +299,6 @@ g++ -std=c++17 -o server_grp server_grp.cpp -pthread
 g++ -std=c++17 -o client_grp client_grp.cpp -pthread
 ```
 
-## Contribution
-
-| Member  | Contribution (%) | Areas of Contribution                                                                                                                                                                                                              |
-| ------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Harshit | 50%              | Designed system architecture, implemented core functionalities including<br />multi-threading and synchronization, and worked on logging mechanisms <br />and user authentication. <br />Contributed to testing and documentation. |
-| Ananya  | 50%              | Worked on messaging commands, user authentication and group<br />management features. <br />Conducted testing, debugged issues, and <br />contributed to documentation.                                                            |
 
 ## References
 
