@@ -1,6 +1,6 @@
 # Assignment-1 : Chat Server with Groups
 
-## Group Members: Ananya Agrawal ( 210130 ), Harshit Chaudhary ( 210421 )
+
 
 ### Features Implemented
 
